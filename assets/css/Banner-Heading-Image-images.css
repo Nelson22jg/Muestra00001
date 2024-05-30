@@ -1,0 +1,19 @@
+.fit-cover {
+  object-fit: cover;
+}
+
+.navbar {
+  height: 200px;
+}
+
+.btn {
+  color: var(--bs-yellw);
+}
+
+.btn {
+  background-color: gold;
+}
+
+.fab.fa-instagram {
+}
+
